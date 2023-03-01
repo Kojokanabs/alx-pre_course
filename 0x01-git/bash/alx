@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-school
-=======
-ALX
->>>>>>> a0dafdfd1992a6522f72cee77c2cc95fcb847743
+#!/bin/bash
+echo "ALX" 
